@@ -1,9 +1,11 @@
 # Use all private apps
+
+#    MoKeePay \
+#    Phonograph \
+
 PRODUCT_PACKAGES += \
     Lawnchair \
     LawnFeed \
-    MoKeePay \
-    Phonograph \
     ViaBrowser
 
 # Use all private binaries
@@ -56,5 +58,5 @@ WITH_DEXPREOPT := false
 endif
 
 # Default sound effects app
-PRODUCT_PACKAGES += \
-    AudioFX
+#PRODUCT_PACKAGES += \
+#    AudioFX
