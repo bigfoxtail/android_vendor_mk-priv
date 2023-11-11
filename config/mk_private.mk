@@ -4,8 +4,7 @@
 #    Phonograph \
 
 PRODUCT_PACKAGES += \
-    Lawnchair \
-    LawnFeed \
+    E-Ink-Launcher \
     ViaBrowser
 
 # Use all private binaries
